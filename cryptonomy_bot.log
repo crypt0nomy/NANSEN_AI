@@ -1,0 +1,591 @@
+2026-09-18 16:15:19,590 [INFO] ✅ Alerta enviada con éxito a Telegram.
+2026-09-18 16:15:19,592 [INFO] 🚀 Iniciando escaneo completo de señales...
+2026-09-18 16:15:19,592 [INFO] --- [Ejecutando Señal 1: Smart Money Inflow 1H] ---
+2026-09-18 16:15:20,427 [INFO] --- [Ejecutando Señal 2: Smart Money Inflow 24H] ---
+2026-09-18 16:15:21,142 [INFO] --- [Ejecutando Señal 4: Screener Divergence 24H] ---
+2026-09-18 16:15:22,369 [INFO] 🔍 Candidato STONK desestimado por Score insuficiente (40/100)
+2026-09-18 16:15:22,929 [INFO] 🔍 Candidato PAID desestimado por Score insuficiente (40/100)
+2026-09-18 16:15:23,563 [INFO] 🔍 Candidato ZCAT desestimado por Score insuficiente (40/100)
+2026-09-18 16:15:24,017 [INFO] 🔍 Candidato 🌱 GSTOCK desestimado por Score insuficiente (50/100)
+2026-09-18 16:15:24,642 [INFO] 🔍 Candidato ZEC desestimado por Score insuficiente (40/100)
+2026-09-18 16:15:25,188 [INFO] 🔍 Candidato AERO desestimado por Score insuficiente (40/100)
+2026-09-18 16:15:25,695 [INFO] 🔍 Candidato GP desestimado por Score insuficiente (50/100)
+2026-09-18 16:15:26,326 [INFO] 🔍 Candidato VVV desestimado por Score insuficiente (40/100)
+2026-09-18 16:15:26,773 [INFO] 🔍 Candidato ALLINU desestimado por Score insuficiente (40/100)
+2026-09-18 16:15:27,275 [INFO] 🔍 Candidato 🌱 TIGRINO desestimado por Score insuficiente (40/100)
+2026-09-18 16:15:27,275 [INFO] --- [Ejecutando Señal 5: Acumulación Institucional VC 7D] ---
+2026-09-18 16:15:27,771 [INFO] --- [Ejecutando Señal 6: Convención Macro 30D] ---
+2026-09-18 16:15:28,329 [INFO] --- [Ejecutando Señal 3: Smart Money Dump 24H] ---
+2026-09-18 16:15:29,630 [INFO] ✅ Alerta enviada con éxito a Telegram.
+2026-09-18 16:15:30,376 [INFO] ✅ Alerta enviada con éxito a Telegram.
+2026-09-18 16:15:30,381 [INFO] ✅ Escaneo completado.
+2026-09-18 16:15:30,381 [INFO] ⏳ Bot escuchando activamente. Próximo escaneo en 30 minutos...
+2026-09-18 16:45:30,381 [INFO] 🚀 Iniciando escaneo completo de señales...
+2026-09-18 16:45:30,381 [INFO] --- [Ejecutando Señal 1: Smart Money Inflow 1H] ---
+2026-09-18 16:45:31,129 [INFO] --- [Ejecutando Señal 2: Smart Money Inflow 24H] ---
+2026-09-18 16:45:31,800 [INFO] --- [Ejecutando Señal 4: Screener Divergence 24H] ---
+2026-09-18 16:45:33,199 [INFO] 🔍 Candidato STONK desestimado por Score insuficiente (40/100)
+2026-09-18 16:45:33,806 [INFO] 🔍 Candidato PAID desestimado por Score insuficiente (40/100)
+2026-09-18 16:45:34,284 [INFO] 🔍 Candidato ZCAT desestimado por Score insuficiente (40/100)
+2026-09-18 16:45:34,763 [INFO] 🔍 Candidato 🌱 GSTOCK desestimado por Score insuficiente (50/100)
+2026-09-18 16:45:35,294 [INFO] 🔍 Candidato ZEC desestimado por Score insuficiente (40/100)
+2026-09-18 16:45:35,873 [INFO] 🔍 Candidato AERO desestimado por Score insuficiente (40/100)
+2026-09-18 16:45:36,426 [INFO] 🔍 Candidato GP desestimado por Score insuficiente (50/100)
+2026-09-18 16:45:36,985 [INFO] 🔍 Candidato VVV desestimado por Score insuficiente (40/100)
+2026-09-18 16:45:37,486 [INFO] 🔍 Candidato ALLINU desestimado por Score insuficiente (40/100)
+2026-09-18 16:45:37,907 [INFO] 🔍 Candidato 🌱 TIGRINO desestimado por Score insuficiente (40/100)
+2026-09-18 16:45:37,908 [INFO] --- [Ejecutando Señal 5: Acumulación Institucional VC 7D] ---
+2026-09-18 16:45:38,360 [INFO] --- [Ejecutando Señal 6: Convención Macro 30D] ---
+2026-09-18 16:45:39,008 [INFO] --- [Ejecutando Señal 3: Smart Money Dump 24H] ---
+2026-09-18 16:45:39,683 [INFO] ✅ Escaneo completado.
+2026-09-18 17:15:39,683 [INFO] 🚀 Iniciando escaneo completo de señales...
+2026-09-18 17:15:39,684 [INFO] --- [Ejecutando Señal 1: Smart Money Inflow 1H] ---
+2026-09-18 17:15:40,523 [INFO] --- [Ejecutando Señal 2: Smart Money Inflow 24H] ---
+2026-09-18 17:15:41,092 [INFO] --- [Ejecutando Señal 4: Screener Divergence 24H] ---
+2026-09-18 17:15:50,339 [INFO] 🔍 Candidato STONK desestimado por Score insuficiente (40/100)
+2026-09-18 17:15:50,869 [INFO] 🔍 Candidato PAID desestimado por Score insuficiente (40/100)
+2026-09-18 17:15:51,435 [INFO] 🔍 Candidato ZCAT desestimado por Score insuficiente (40/100)
+2026-09-18 17:15:53,175 [INFO] 🔍 Candidato ZEC desestimado por Score insuficiente (40/100)
+2026-09-18 17:15:54,405 [INFO] 🔍 Candidato AERO desestimado por Score insuficiente (40/100)
+2026-09-18 17:15:55,155 [INFO] 🔍 Candidato 🌱 GSTOCK desestimado por Score insuficiente (50/100)
+2026-09-18 17:16:02,355 [INFO] 🔍 Candidato GP desestimado por Score insuficiente (50/100)
+2026-09-18 17:16:03,279 [INFO] 🔍 Candidato 🌱 TIGRINO desestimado por Score insuficiente (40/100)
+2026-09-18 17:16:03,829 [INFO] 🔍 Candidato VVV desestimado por Score insuficiente (40/100)
+2026-09-18 17:16:04,430 [INFO] 🔍 Candidato ALLINU desestimado por Score insuficiente (40/100)
+2026-09-18 17:16:04,431 [INFO] --- [Ejecutando Señal 5: Acumulación Institucional VC 7D] ---
+2026-09-18 17:16:05,310 [INFO] --- [Ejecutando Señal 6: Convención Macro 30D] ---
+2026-09-18 17:16:16,216 [INFO] --- [Ejecutando Señal 3: Smart Money Dump 24H] ---
+2026-09-18 17:16:17,370 [INFO] ✅ Escaneo completado.
+2026-09-18 17:36:00,455 [INFO] 🛑 Bot detenido manualmente por el usuario. Apagado seguro.
+2026-09-18 17:36:04,106 [INFO] ✅ Alerta enviada con éxito a Telegram.
+2026-09-18 17:36:04,108 [INFO] 🚀 Iniciando escaneo completo de señales...
+2026-09-18 17:36:04,108 [INFO] --- [Ejecutando Señal 1: Smart Money Inflow 1H] ---
+2026-09-18 17:36:04,927 [INFO] --- [Ejecutando Señal 2: Smart Money Inflow 24H] ---
+2026-09-18 17:36:05,584 [INFO] --- [Ejecutando Señal 4: Screener Divergence 24H] ---
+2026-09-18 17:36:06,855 [INFO] 🔍 Candidato STONK desestimado por Score insuficiente (40/100)
+2026-09-18 17:36:07,367 [INFO] 🔍 Candidato PAID desestimado por Score insuficiente (40/100)
+2026-09-18 17:36:07,712 [INFO] 🔍 Candidato ZCAT desestimado por Score insuficiente (40/100)
+2026-09-18 17:36:08,159 [INFO] 🔍 Candidato ZEC desestimado por Score insuficiente (40/100)
+2026-09-18 17:36:08,598 [INFO] 🔍 Candidato AERO desestimado por Score insuficiente (40/100)
+2026-09-18 17:36:09,241 [INFO] 🔍 Candidato 🌱 GSTOCK desestimado por Score insuficiente (50/100)
+2026-09-18 17:36:09,730 [INFO] 🔍 Candidato GP desestimado por Score insuficiente (50/100)
+2026-09-18 17:36:10,192 [INFO] 🔍 Candidato 🌱 TIGRINO desestimado por Score insuficiente (40/100)
+2026-09-18 17:36:10,669 [INFO] 🔍 Candidato VVV desestimado por Score insuficiente (40/100)
+2026-09-18 17:36:11,119 [INFO] 🔍 Candidato ALLINU desestimado por Score insuficiente (40/100)
+2026-09-18 17:36:11,120 [INFO] --- [Ejecutando Señal 5: Acumulación Institucional VC 7D] ---
+2026-09-18 17:36:11,575 [INFO] --- [Ejecutando Señal 6: Convención Macro 30D] ---
+2026-09-18 17:36:11,986 [INFO] --- [Ejecutando Señal 3: Smart Money Dump 24H] ---
+2026-09-18 17:36:12,666 [INFO] ✅ Escaneo completado.
+2026-09-18 17:36:12,666 [INFO] ⏳ Bot escuchando activamente. Próximo escaneo en 30 minutos...
+2026-09-18 18:06:12,666 [INFO] 🚀 Iniciando escaneo completo de señales...
+2026-09-18 18:06:12,666 [INFO] --- [Ejecutando Señal 1: Smart Money Inflow 1H] ---
+2026-09-18 18:06:13,394 [INFO] --- [Ejecutando Señal 2: Smart Money Inflow 24H] ---
+2026-09-18 18:06:14,027 [INFO] --- [Ejecutando Señal 4: Screener Divergence 24H] ---
+2026-09-18 18:06:15,831 [INFO] 🔍 Candidato STONK desestimado por Score insuficiente (40/100)
+2026-09-18 18:06:16,360 [INFO] 🔍 Candidato PAID desestimado por Score insuficiente (40/100)
+2026-09-18 18:06:17,200 [INFO] 🔍 Candidato ZCAT desestimado por Score insuficiente (40/100)
+2026-09-18 18:06:17,678 [INFO] 🔍 Candidato AERO desestimado por Score insuficiente (40/100)
+2026-09-18 18:06:18,241 [INFO] 🔍 Candidato 🌱 GSTOCK desestimado por Score insuficiente (50/100)
+2026-09-18 18:06:18,792 [INFO] 🔍 Candidato GP desestimado por Score insuficiente (50/100)
+2026-09-18 18:06:19,352 [INFO] 🔍 Candidato BEM desestimado por Score insuficiente (50/100)
+2026-09-18 18:06:20,007 [INFO] 🔍 Candidato 🌱 TIGRINO desestimado por Score insuficiente (40/100)
+2026-09-18 18:06:20,449 [INFO] 🔍 Candidato VVV desestimado por Score insuficiente (40/100)
+2026-09-18 18:06:20,953 [INFO] 🔍 Candidato ALLINU desestimado por Score insuficiente (40/100)
+2026-09-18 18:06:22,251 [INFO] 🔍 Candidato ZEC desestimado por Score insuficiente (40/100)
+2026-09-18 18:06:22,251 [INFO] --- [Ejecutando Señal 5: Acumulación Institucional VC 7D] ---
+2026-09-18 18:06:22,716 [INFO] --- [Ejecutando Señal 6: Convención Macro 30D] ---
+2026-09-18 18:06:23,361 [INFO] --- [Ejecutando Señal 3: Smart Money Dump 24H] ---
+2026-09-18 18:06:23,891 [INFO] ✅ Escaneo completado.
+2026-09-18 19:31:39,731 [INFO] 🛑 Bot detenido manualmente por el usuario. Apagado seguro.
+2026-09-18 19:31:44,231 [INFO] ✅ Alerta enviada con éxito a Telegram.
+2026-09-18 19:31:44,233 [INFO] 🚀 Iniciando escaneo completo de señales...
+2026-09-18 19:31:44,234 [INFO] --- [Ejecutando Señal 1: Smart Money Inflow 1H] ---
+2026-09-18 19:31:45,554 [INFO] --- [Ejecutando Señal 2: Smart Money Inflow 24H] ---
+2026-09-18 19:31:46,295 [INFO] --- [Ejecutando Señal 4: Screener Divergence 24H] ---
+2026-09-18 19:31:47,504 [INFO] 🔍 Candidato STONK desestimado por Score insuficiente (40/100)
+2026-09-18 19:31:47,991 [INFO] 🔍 Candidato PAID desestimado por Score insuficiente (40/100)
+2026-09-18 19:31:48,490 [INFO] 🔍 Candidato ZCAT desestimado por Score insuficiente (40/100)
+2026-09-18 19:31:48,970 [INFO] 🔍 Candidato AERO desestimado por Score insuficiente (40/100)
+2026-09-18 19:31:49,298 [INFO] 🔍 Candidato BEM desestimado por Score insuficiente (50/100)
+2026-09-18 19:31:49,694 [INFO] 🔍 Candidato GP desestimado por Score insuficiente (50/100)
+2026-09-18 19:31:50,236 [INFO] 🔍 Candidato 🌱 GSTOCK desestimado por Score insuficiente (50/100)
+2026-09-18 19:31:50,712 [INFO] 🔍 Candidato KNOTS desestimado por Score insuficiente (40/100)
+2026-09-18 19:31:51,184 [INFO] 🔍 Candidato VVV desestimado por Score insuficiente (40/100)
+2026-09-18 19:31:51,184 [INFO] --- [Ejecutando Señal 5: Acumulación Institucional VC 7D] ---
+2026-09-18 19:31:51,585 [INFO] --- [Ejecutando Señal 6: Convención Macro 30D] ---
+2026-09-18 19:31:52,175 [INFO] --- [Ejecutando Señal 3: Smart Money Dump 24H] ---
+2026-09-18 19:31:53,460 [INFO] ✅ Alerta enviada con éxito a Telegram.
+2026-09-18 19:31:53,466 [INFO] ✅ Escaneo completado.
+2026-09-18 19:31:53,467 [INFO] ⏳ Bot escuchando activamente. Próximo escaneo en 30 minutos...
+2026-09-18 20:49:59,250 [INFO] 🛑 Bot detenido manualmente por el usuario. Apagado seguro.
+2026-09-18 20:50:06,460 [INFO] ✅ Alerta enviada con éxito a Telegram.
+2026-09-18 20:50:06,462 [INFO] 🚀 Iniciando escaneo completo de señales...
+2026-09-18 20:50:06,462 [INFO] --- [Ejecutando Señal 1: Smart Money Inflow 1H] ---
+2026-09-18 20:50:07,528 [INFO] --- [Ejecutando Señal 2: Smart Money Inflow 24H] ---
+2026-09-18 20:50:08,325 [INFO] --- [Ejecutando Señal 4: Screener Divergence 24H] ---
+2026-09-18 20:50:09,892 [INFO] 🔍 Candidato STONK desestimado por Score insuficiente (40/100)
+2026-09-18 20:50:10,936 [INFO] 🔍 Candidato ZCAT desestimado por Score insuficiente (40/100)
+2026-09-18 20:50:11,653 [INFO] 🔍 Candidato PAID desestimado por Score insuficiente (40/100)
+2026-09-18 20:50:12,146 [INFO] 🔍 Candidato AERO desestimado por Score insuficiente (40/100)
+2026-09-18 20:50:12,695 [INFO] 🔍 Candidato BEM desestimado por Score insuficiente (50/100)
+2026-09-18 20:50:13,298 [INFO] 🔍 Candidato GP desestimado por Score insuficiente (50/100)
+2026-09-18 20:50:13,842 [INFO] 🔍 Candidato ALLINU desestimado por Score insuficiente (40/100)
+2026-09-18 20:50:14,445 [INFO] 🔍 Candidato KNOTS desestimado por Score insuficiente (40/100)
+2026-09-18 20:50:14,994 [INFO] 🔍 Candidato VVV desestimado por Score insuficiente (40/100)
+2026-09-18 20:50:14,995 [INFO] --- [Ejecutando Señal 5: Acumulación Institucional VC 7D] ---
+2026-09-18 20:50:15,435 [INFO] --- [Ejecutando Señal 6: Convención Macro 30D] ---
+2026-09-18 20:50:17,623 [INFO] --- [Ejecutando Señal 3: Smart Money Dump 24H] ---
+2026-09-18 20:50:18,137 [INFO] ✅ Escaneo completado.
+2026-09-18 20:50:18,138 [INFO] ⏳ Bot escuchando activamente. Próximo escaneo en 30 minutos...
+2026-09-18 20:59:17,999 [INFO] 🛑 Bot detenido manualmente por el usuario. Apagado seguro.
+2026-09-19 07:06:29,849 [INFO] ✅ Alerta enviada con éxito a Telegram.
+2026-09-19 07:06:29,853 [INFO] 🚀 Iniciando escaneo completo de señales...
+2026-09-19 07:06:29,853 [INFO] --- [Ejecutando Señal 1: Smart Money Inflow 1H] ---
+2026-09-19 07:06:30,942 [INFO] --- [Ejecutando Señal 2: Smart Money Inflow 24H] ---
+2026-09-19 07:06:32,571 [INFO] --- [Ejecutando Señal 4: Screener Divergence 24H] ---
+2026-09-19 07:06:34,997 [INFO] 🔍 Candidato STONK desestimado por Score insuficiente (40/100)
+2026-09-19 07:06:35,599 [INFO] 🔍 Candidato ZCAT desestimado por Score insuficiente (40/100)
+2026-09-19 07:06:36,080 [INFO] 🔍 Candidato AERO desestimado por Score insuficiente (40/100)
+2026-09-19 07:06:36,551 [INFO] 🔍 Candidato CBZEC desestimado por Score insuficiente (50/100)
+2026-09-19 07:06:37,180 [INFO] 🔍 Candidato AKE desestimado por Score insuficiente (40/100)
+2026-09-19 07:06:37,681 [INFO] 🔍 Candidato PAID desestimado por Score insuficiente (50/100)
+2026-09-19 07:06:38,294 [INFO] 🔍 Candidato GP desestimado por Score insuficiente (50/100)
+2026-09-19 07:06:38,614 [INFO] 🔍 Candidato 🌱 FEELSGOOD desestimado por Score insuficiente (40/100)
+2026-09-19 07:06:39,120 [INFO] 🔍 Candidato 🌱 TIGRINO desestimado por Score insuficiente (40/100)
+2026-09-19 07:06:39,606 [INFO] 🔍 Candidato PEAR desestimado por Score insuficiente (40/100)
+2026-09-19 07:06:39,606 [INFO] --- [Ejecutando Señal 5: Acumulación Institucional VC 7D] ---
+2026-09-19 07:06:39,895 [INFO] --- [Ejecutando Señal 6: Convención Macro 30D] ---
+2026-09-19 07:06:40,429 [INFO] --- [Ejecutando Señal 3: Smart Money Dump 24H] ---
+2026-09-19 07:06:41,688 [INFO] ✅ Alerta enviada con éxito a Telegram.
+2026-09-19 07:06:42,422 [INFO] ✅ Alerta enviada con éxito a Telegram.
+2026-09-19 07:06:43,188 [INFO] ✅ Alerta enviada con éxito a Telegram.
+2026-09-19 07:06:43,913 [INFO] ✅ Alerta enviada con éxito a Telegram.
+2026-09-19 07:06:43,920 [INFO] ✅ Escaneo completado.
+2026-09-19 07:06:43,920 [INFO] ⏳ Bot escuchando activamente. Próximo escaneo en 30 minutos...
+2026-09-19 07:15:07,411 [INFO] 🛑 Bot detenido manualmente por el usuario. Apagado seguro.
+2026-09-19 07:59:09,803 [INFO] ✅ Alerta enviada con éxito a Telegram.
+2026-09-19 07:59:09,806 [INFO] 🚀 Iniciando escaneo completo de señales...
+2026-09-19 07:59:09,806 [INFO] --- [Ejecutando Señal 1: Smart Money Inflow 1H] ---
+2026-09-19 07:59:10,430 [INFO] --- [Ejecutando Señal 2: Smart Money Inflow 24H] ---
+2026-09-19 07:59:11,028 [INFO] --- [Ejecutando Señal 4: Screener Divergence 24H] ---
+2026-09-19 07:59:12,060 [INFO] 🔍 Candidato STONK desestimado por Score insuficiente (40/100)
+2026-09-19 07:59:12,490 [INFO] 🔍 Candidato ZCAT desestimado por Score insuficiente (40/100)
+2026-09-19 07:59:12,939 [INFO] 🔍 Candidato AERO desestimado por Score insuficiente (40/100)
+2026-09-19 07:59:13,343 [INFO] 🔍 Candidato CBZEC desestimado por Score insuficiente (50/100)
+2026-09-19 07:59:13,791 [INFO] 🔍 Candidato AKE desestimado por Score insuficiente (40/100)
+2026-09-19 07:59:14,241 [INFO] 🔍 Candidato PAID desestimado por Score insuficiente (40/100)
+2026-09-19 07:59:14,681 [INFO] 🔍 Candidato GP desestimado por Score insuficiente (50/100)
+2026-09-19 07:59:15,237 [INFO] 🔍 Candidato 🌱 TIGRINO desestimado por Score insuficiente (40/100)
+2026-09-19 07:59:15,668 [INFO] 🔍 Candidato PEAR desestimado por Score insuficiente (40/100)
+2026-09-19 07:59:15,669 [INFO] --- [Ejecutando Señal 5: Acumulación Institucional VC 7D] ---
+2026-09-19 07:59:15,936 [INFO] --- [Ejecutando Señal 6: Convención Macro 30D] ---
+2026-09-19 07:59:16,478 [INFO] --- [Ejecutando Señal 3: Smart Money Dump 24H] ---
+2026-09-19 07:59:16,941 [INFO] ✅ Escaneo completado.
+2026-09-19 07:59:16,942 [INFO] ⏳ Bot escuchando activamente. Próximo escaneo en 30 minutos...
+2026-09-19 08:13:11,391 [INFO] 🛑 Bot detenido manualmente por el usuario. Apagado seguro.
+2026-09-21 06:41:13,108 [INFO] ✅ Alerta enviada con éxito a Telegram.
+2026-09-21 06:41:13,112 [INFO] 🚀 Iniciando escaneo completo de señales...
+2026-09-21 06:41:13,112 [INFO] --- [Ejecutando Señal 1: Smart Money Inflow 1H] ---
+2026-09-21 06:41:13,877 [INFO] --- [Ejecutando Señal 2: Smart Money Inflow 24H] ---
+2026-09-21 06:41:14,511 [INFO] --- [Ejecutando Señal 4: Screener Divergence 24H] ---
+2026-09-21 06:41:15,732 [INFO] 🔍 Candidato STONK desestimado por Score insuficiente (40/100)
+2026-09-21 06:41:16,228 [INFO] 🔍 Candidato 🌱 STAMP desestimado por Score insuficiente (50/100)
+2026-09-21 06:41:16,733 [INFO] 🔍 Candidato BP desestimado por Score insuficiente (40/100)
+2026-09-21 06:41:17,337 [INFO] 🔍 Candidato ZEC desestimado por Score insuficiente (40/100)
+2026-09-21 06:41:17,804 [INFO] 🔍 Candidato WNEAR desestimado por Score insuficiente (50/100)
+2026-09-21 06:41:18,388 [INFO] 🔍 Candidato ZCAT desestimado por Score insuficiente (40/100)
+2026-09-21 06:41:18,901 [INFO] 🔍 Candidato 🌱 FEELSGOOD desestimado por Score insuficiente (40/100)
+2026-09-21 06:41:19,331 [INFO] 🔍 Candidato 牛来 desestimado por Score insuficiente (40/100)
+2026-09-21 06:41:19,841 [INFO] 🔍 Candidato GP desestimado por Score insuficiente (50/100)
+2026-09-21 06:41:20,346 [INFO] 🔍 Candidato ALLINU desestimado por Score insuficiente (40/100)
+2026-09-21 06:41:20,346 [INFO] --- [Ejecutando Señal 5: Acumulación Institucional VC 7D] ---
+2026-09-21 06:41:20,993 [INFO] --- [Ejecutando Señal 6: Convención Macro 30D] ---
+2026-09-21 06:41:21,632 [INFO] --- [Ejecutando Señal 3: Smart Money Dump 24H] ---
+2026-09-21 06:41:22,929 [INFO] ✅ Alerta enviada con éxito a Telegram.
+2026-09-21 06:41:22,935 [INFO] ✅ Escaneo completado.
+2026-09-21 06:41:22,935 [INFO] ⏳ Bot escuchando activamente. Próximo escaneo en 30 minutos...
+2026-09-21 07:11:22,935 [INFO] 🚀 Iniciando escaneo completo de señales...
+2026-09-21 07:11:22,936 [INFO] --- [Ejecutando Señal 1: Smart Money Inflow 1H] ---
+2026-09-21 07:11:23,673 [INFO] --- [Ejecutando Señal 2: Smart Money Inflow 24H] ---
+2026-09-21 07:11:24,467 [INFO] --- [Ejecutando Señal 4: Screener Divergence 24H] ---
+2026-09-21 07:11:25,802 [INFO] 🔍 Candidato STONK desestimado por Score insuficiente (40/100)
+2026-09-21 07:11:26,401 [INFO] 🔍 Candidato 🌱 STAMP desestimado por Score insuficiente (50/100)
+2026-09-21 07:11:26,960 [INFO] 🔍 Candidato BP desestimado por Score insuficiente (40/100)
+2026-09-21 07:11:27,544 [INFO] 🔍 Candidato ZEC desestimado por Score insuficiente (40/100)
+2026-09-21 07:11:28,144 [INFO] 🔍 Candidato WNEAR desestimado por Score insuficiente (50/100)
+2026-09-21 07:11:28,629 [INFO] 🔍 Candidato 🌱 FEELSGOOD desestimado por Score insuficiente (40/100)
+2026-09-21 07:11:29,099 [INFO] 🔍 Candidato 牛来 desestimado por Score insuficiente (40/100)
+2026-09-21 07:11:29,620 [INFO] 🔍 Candidato ZCAT desestimado por Score insuficiente (40/100)
+2026-09-21 07:11:30,170 [INFO] 🔍 Candidato GP desestimado por Score insuficiente (50/100)
+2026-09-21 07:11:30,718 [INFO] 🔍 Candidato CARDS desestimado por Score insuficiente (40/100)
+2026-09-21 07:11:31,238 [INFO] 🔍 Candidato UNI desestimado por Score insuficiente (40/100)
+2026-09-21 07:11:31,238 [INFO] --- [Ejecutando Señal 5: Acumulación Institucional VC 7D] ---
+2026-09-21 07:11:31,804 [INFO] --- [Ejecutando Señal 6: Convención Macro 30D] ---
+2026-09-21 07:11:32,381 [INFO] --- [Ejecutando Señal 3: Smart Money Dump 24H] ---
+2026-09-21 07:11:33,183 [INFO] ✅ Escaneo completado.
+2026-09-21 07:19:38,157 [INFO] 🛑 Bot detenido manualmente por el usuario. Apagado seguro.
+2026-09-21 10:14:58,373 [INFO] ✅ Alerta enviada con éxito a Telegram.
+2026-09-21 10:14:58,374 [INFO] 🚀 Iniciando escaneo completo de señales...
+2026-09-21 10:14:58,374 [INFO] --- [Ejecutando Señal 1: Smart Money Inflow 1H] ---
+2026-09-21 10:14:59,027 [INFO] --- [Ejecutando Señal 2: Smart Money Inflow 24H] ---
+2026-09-21 10:14:59,592 [INFO] --- [Ejecutando Señal 4: Screener Divergence 24H] ---
+2026-09-21 10:15:00,938 [INFO] 🔍 Candidato STONK desestimado por Score insuficiente (40/100)
+2026-09-21 10:15:01,490 [INFO] 🔍 Candidato 🌱 STAMP desestimado por Score insuficiente (50/100)
+2026-09-21 10:15:02,073 [INFO] 🔍 Candidato BP desestimado por Score insuficiente (40/100)
+2026-09-21 10:15:02,729 [INFO] 🔍 Candidato ZEC desestimado por Score insuficiente (40/100)
+2026-09-21 10:15:03,246 [INFO] 🔍 Candidato WNEAR desestimado por Score insuficiente (50/100)
+2026-09-21 10:15:03,822 [INFO] 🔍 Candidato 牛来 desestimado por Score insuficiente (40/100)
+2026-09-21 10:15:04,409 [INFO] 🔍 Candidato CARDS desestimado por Score insuficiente (40/100)
+2026-09-21 10:15:04,884 [INFO] 🔍 Candidato ZCAT desestimado por Score insuficiente (40/100)
+2026-09-21 10:15:04,884 [INFO] --- [Ejecutando Señal 5: Acumulación Institucional VC 7D] ---
+2026-09-21 10:15:05,337 [INFO] --- [Ejecutando Señal 6: Convención Macro 30D] ---
+2026-09-21 10:15:05,873 [INFO] --- [Ejecutando Señal 3: Smart Money Dump 24H] ---
+2026-09-21 10:15:07,350 [INFO] ✅ Alerta enviada con éxito a Telegram.
+2026-09-21 10:15:07,354 [INFO] ✅ Escaneo completado.
+2026-09-21 10:15:07,354 [INFO] ⏳ Bot escuchando activamente. Próximo escaneo en 30 minutos...
+2026-09-21 10:25:12,913 [INFO] 🛑 Bot detenido manualmente por el usuario. Apagado seguro.
+2026-09-21 10:26:51,331 [INFO] ✅ Alerta enviada con éxito a Telegram.
+2026-09-21 10:26:51,333 [INFO] 🚀 Iniciando escaneo completo de señales...
+2026-09-21 10:26:51,333 [INFO] --- [Ejecutando Señal 1: Smart Money Inflow 1H] ---
+2026-09-21 10:26:52,547 [INFO] --- [Ejecutando Señal 2: Smart Money Inflow 24H] ---
+2026-09-21 10:26:53,132 [INFO] --- [Ejecutando Señal 4: Screener Divergence 24H] ---
+2026-09-21 10:26:54,360 [INFO] 🔍 Candidato STONK desestimado por Score insuficiente (40/100)
+2026-09-21 10:26:54,955 [INFO] 🔍 Candidato 🌱 STAMP desestimado por Score insuficiente (50/100)
+2026-09-21 10:26:55,562 [INFO] 🔍 Candidato BP desestimado por Score insuficiente (40/100)
+2026-09-21 10:26:56,341 [INFO] 🔍 Candidato ZEC desestimado por Score insuficiente (50/100)
+2026-09-21 10:26:56,896 [INFO] 🔍 Candidato WNEAR desestimado por Score insuficiente (50/100)
+2026-09-21 10:26:57,217 [INFO] 🔍 Candidato 牛来 desestimado por Score insuficiente (40/100)
+2026-09-21 10:26:57,735 [INFO] 🔍 Candidato CARDS desestimado por Score insuficiente (40/100)
+2026-09-21 10:26:58,200 [INFO] 🔍 Candidato ZCAT desestimado por Score insuficiente (40/100)
+2026-09-21 10:26:58,200 [INFO] --- [Ejecutando Señal 5: Acumulación Institucional VC 7D] ---
+2026-09-21 10:26:58,660 [INFO] --- [Ejecutando Señal 6: Convención Macro 30D] ---
+2026-09-21 10:26:59,268 [INFO] --- [Ejecutando Señal 3: Smart Money Dump 24H] ---
+2026-09-21 10:26:59,780 [INFO] ✅ Escaneo completado.
+2026-09-21 10:26:59,780 [INFO] ⏳ Bot escuchando activamente. Próximo escaneo en 30 minutos...
+2026-09-21 10:56:59,780 [INFO] 🚀 Iniciando escaneo completo de señales...
+2026-09-21 10:56:59,781 [INFO] --- [Ejecutando Señal 1: Smart Money Inflow 1H] ---
+2026-09-21 10:57:00,528 [INFO] --- [Ejecutando Señal 2: Smart Money Inflow 24H] ---
+2026-09-21 10:57:01,066 [INFO] --- [Ejecutando Señal 4: Screener Divergence 24H] ---
+2026-09-21 10:57:02,254 [INFO] 🔍 Candidato STONK desestimado por Score insuficiente (40/100)
+2026-09-21 10:57:02,752 [INFO] 🔍 Candidato 🌱 STAMP desestimado por Score insuficiente (50/100)
+2026-09-21 10:57:03,242 [INFO] 🔍 Candidato BP desestimado por Score insuficiente (40/100)
+2026-09-21 10:57:03,803 [INFO] 🔍 Candidato ZEC desestimado por Score insuficiente (50/100)
+2026-09-21 10:57:04,326 [INFO] 🔍 Candidato WNEAR desestimado por Score insuficiente (50/100)
+2026-09-21 10:57:04,929 [INFO] 🔍 Candidato 牛来 desestimado por Score insuficiente (40/100)
+2026-09-21 10:57:05,401 [INFO] 🔍 Candidato CARDS desestimado por Score insuficiente (40/100)
+2026-09-21 10:57:05,961 [INFO] 🔍 Candidato ZCAT desestimado por Score insuficiente (40/100)
+2026-09-21 10:57:05,961 [INFO] --- [Ejecutando Señal 5: Acumulación Institucional VC 7D] ---
+2026-09-21 10:57:06,367 [INFO] --- [Ejecutando Señal 6: Convención Macro 30D] ---
+2026-09-21 10:57:06,818 [INFO] --- [Ejecutando Señal 3: Smart Money Dump 24H] ---
+2026-09-21 10:57:07,416 [INFO] ✅ Escaneo completado.
+2026-09-21 11:16:07,302 [INFO] 🛑 Bot detenido manualmente por el usuario. Apagado seguro.
+2026-09-21 11:16:09,751 [INFO] ✅ Alerta enviada con éxito a Telegram.
+2026-09-21 11:16:09,753 [INFO] 🚀 Iniciando escaneo completo de señales...
+2026-09-21 11:16:09,753 [INFO] --- [Ejecutando Señal 1: Smart Money Inflow 1H] ---
+2026-09-21 11:16:16,248 [INFO] --- [Ejecutando Señal 2: Smart Money Inflow 24H] ---
+2026-09-21 11:16:16,899 [INFO] --- [Ejecutando Señal 4: Screener Divergence 24H] ---
+2026-09-21 11:16:31,911 [ERROR] ❌ Excepción en consulta HTTP a Nansen: HTTPSConnectionPool(host='api.nansen.ai', port=443): Read timed out. (read timeout=15)
+2026-09-21 11:16:31,912 [INFO] --- [Ejecutando Señal 5: Acumulación Institucional VC 7D] ---
+2026-09-21 11:16:32,455 [INFO] --- [Ejecutando Señal 6: Convención Macro 30D] ---
+2026-09-21 11:16:33,089 [INFO] --- [Ejecutando Señal 3: Smart Money Dump 24H] ---
+2026-09-21 11:16:33,724 [INFO] ✅ Escaneo completado.
+2026-09-21 11:16:33,725 [INFO] ⏳ Bot escuchando activamente. Próximo escaneo en 30 minutos...
+2026-09-21 11:46:33,725 [INFO] 🚀 Iniciando escaneo completo de señales...
+2026-09-21 11:46:33,725 [INFO] --- [Ejecutando Señal 1: Smart Money Inflow 1H] ---
+2026-09-21 11:46:48,923 [ERROR] ❌ Excepción en consulta HTTP a Nansen: HTTPSConnectionPool(host='api.nansen.ai', port=443): Read timed out. (read timeout=15)
+2026-09-21 11:46:48,923 [INFO] --- [Ejecutando Señal 2: Smart Money Inflow 24H] ---
+2026-09-21 11:47:04,000 [ERROR] ❌ Excepción en consulta HTTP a Nansen: HTTPSConnectionPool(host='api.nansen.ai', port=443): Read timed out. (read timeout=15)
+2026-09-21 11:47:04,000 [INFO] --- [Ejecutando Señal 4: Screener Divergence 24H] ---
+2026-09-21 11:47:19,094 [ERROR] ❌ Excepción en consulta HTTP a Nansen: HTTPSConnectionPool(host='api.nansen.ai', port=443): Read timed out. (read timeout=15)
+2026-09-21 11:47:19,094 [INFO] --- [Ejecutando Señal 5: Acumulación Institucional VC 7D] ---
+2026-09-21 11:47:19,576 [INFO] --- [Ejecutando Señal 6: Convención Macro 30D] ---
+2026-09-21 11:47:21,219 [INFO] --- [Ejecutando Señal 3: Smart Money Dump 24H] ---
+2026-09-21 11:47:22,577 [INFO] ✅ Escaneo completado.
+2026-09-21 12:22:50,829 [INFO] 🚀 Iniciando escaneo completo de señales...
+2026-09-21 12:22:50,829 [INFO] --- [Ejecutando Señal 1: Smart Money Inflow 1H] ---
+2026-09-21 12:22:51,608 [INFO] --- [Ejecutando Señal 2: Smart Money Inflow 24H] ---
+2026-09-21 12:22:52,259 [INFO] --- [Ejecutando Señal 4: Screener Divergence 24H] ---
+2026-09-21 12:22:53,702 [INFO] 🔍 Candidato STONK desestimado por Score insuficiente (40/100)
+2026-09-21 12:22:54,204 [INFO] 🔍 Candidato 🌱 STAMP desestimado por Score insuficiente (50/100)
+2026-09-21 12:22:54,663 [INFO] 🔍 Candidato BP desestimado por Score insuficiente (40/100)
+2026-09-21 12:22:55,047 [INFO] 🔍 Candidato ZEC desestimado por Score insuficiente (50/100)
+2026-09-21 12:22:55,584 [INFO] 🔍 Candidato WNEAR desestimado por Score insuficiente (50/100)
+2026-09-21 12:22:56,077 [INFO] 🔍 Candidato 牛来 desestimado por Score insuficiente (40/100)
+2026-09-21 12:22:56,705 [INFO] 🔍 Candidato CARDS desestimado por Score insuficiente (40/100)
+2026-09-21 12:22:57,174 [INFO] 🔍 Candidato UNI desestimado por Score insuficiente (40/100)
+2026-09-21 12:22:57,175 [INFO] --- [Ejecutando Señal 5: Acumulación Institucional VC 7D] ---
+2026-09-21 12:22:57,600 [INFO] --- [Ejecutando Señal 6: Convención Macro 30D] ---
+2026-09-21 12:22:58,102 [INFO] --- [Ejecutando Señal 3: Smart Money Dump 24H] ---
+2026-09-21 12:22:59,398 [INFO] ✅ Alerta enviada con éxito a Telegram.
+2026-09-21 12:22:59,404 [INFO] ✅ Escaneo completado.
+2026-09-21 16:40:00,934 [ERROR] ❌ Error devuelto por Telegram: Bad Request: TOPIC_CLOSED
+2026-09-21 16:40:00,938 [INFO] 🚀 Iniciando escaneo completo de señales...
+2026-09-21 16:40:00,939 [INFO] --- [Ejecutando Señal 1: Smart Money Inflow 1H] ---
+2026-09-21 16:40:01,655 [INFO] --- [Ejecutando Señal 2: Smart Money Inflow 24H] ---
+2026-09-21 16:40:02,232 [INFO] --- [Ejecutando Señal 4: Screener Divergence 24H] ---
+2026-09-21 16:40:03,501 [INFO] 🔍 Candidato STONK desestimado por Score insuficiente (40/100)
+2026-09-21 16:40:04,080 [INFO] 🔍 Candidato BP desestimado por Score insuficiente (40/100)
+2026-09-21 16:40:04,655 [INFO] 🔍 Candidato 🌱 STAMP desestimado por Score insuficiente (50/100)
+2026-09-21 16:40:05,289 [INFO] 🔍 Candidato ZEC desestimado por Score insuficiente (40/100)
+2026-09-21 16:40:05,341 [INFO] 🛑 Bot detenido manualmente por el usuario. Apagado seguro.
+2026-09-21 16:40:19,265 [INFO] ✅ Alerta enviada con éxito a Telegram.
+2026-09-21 16:40:19,267 [INFO] 🚀 Iniciando escaneo completo de señales...
+2026-09-21 16:40:19,267 [INFO] --- [Ejecutando Señal 1: Smart Money Inflow 1H] ---
+2026-09-21 16:40:19,950 [INFO] --- [Ejecutando Señal 2: Smart Money Inflow 24H] ---
+2026-09-21 16:40:20,578 [INFO] --- [Ejecutando Señal 4: Screener Divergence 24H] ---
+2026-09-21 16:40:21,894 [INFO] 🔍 Candidato STONK desestimado por Score insuficiente (40/100)
+2026-09-21 16:40:22,461 [INFO] 🔍 Candidato BP desestimado por Score insuficiente (40/100)
+2026-09-21 16:40:23,033 [INFO] 🔍 Candidato 🌱 STAMP desestimado por Score insuficiente (50/100)
+2026-09-21 16:40:23,485 [INFO] 🔍 Candidato ZEC desestimado por Score insuficiente (40/100)
+2026-09-21 16:40:23,994 [INFO] 🔍 Candidato WNEAR desestimado por Score insuficiente (50/100)
+2026-09-21 16:40:24,580 [INFO] 🔍 Candidato AERO desestimado por Score insuficiente (40/100)
+2026-09-21 16:40:25,120 [INFO] 🔍 Candidato CARDS desestimado por Score insuficiente (40/100)
+2026-09-21 16:40:25,429 [ERROR] ❌ Error de Autenticación Nansen (403): Revisa tu NANSEN_API_KEY.
+2026-09-21 16:40:25,430 [INFO] 🔍 Candidato AKE desestimado por Score insuficiente (40/100)
+2026-09-21 16:40:25,430 [INFO] --- [Ejecutando Señal 5: Acumulación Institucional VC 7D] ---
+2026-09-21 16:40:25,777 [ERROR] ❌ Error de Autenticación Nansen (403): Revisa tu NANSEN_API_KEY.
+2026-09-21 16:40:25,777 [INFO] --- [Ejecutando Señal 6: Convención Macro 30D] ---
+2026-09-21 16:40:26,113 [ERROR] ❌ Error de Autenticación Nansen (403): Revisa tu NANSEN_API_KEY.
+2026-09-21 16:40:26,113 [INFO] --- [Ejecutando Señal 3: Smart Money Dump 24H] ---
+2026-09-21 16:40:26,412 [ERROR] ❌ Error de Autenticación Nansen (403): Revisa tu NANSEN_API_KEY.
+2026-09-21 16:40:26,412 [INFO] ✅ Escaneo completado.
+2026-09-21 16:40:26,412 [INFO] ⏳ Bot escuchando activamente. Próximo escaneo en 30 minutos...
+2026-09-21 17:03:29,281 [INFO] 🛑 Bot detenido manualmente por el usuario. Apagado seguro.
+2026-09-22 06:16:49,289 [INFO] ✅ Alerta enviada con éxito a Telegram.
+2026-09-22 06:16:49,292 [INFO] 🚀 Iniciando escaneo completo de señales...
+2026-09-22 06:16:49,292 [INFO] --- [Ejecutando Señal 1: Smart Money Inflow 1H] ---
+2026-09-22 06:16:49,734 [ERROR] ❌ Error de Autenticación Nansen (403): Revisa tu NANSEN_API_KEY.
+2026-09-22 06:16:49,735 [INFO] --- [Ejecutando Señal 2: Smart Money Inflow 24H] ---
+2026-09-22 06:16:50,124 [ERROR] ❌ Error de Autenticación Nansen (403): Revisa tu NANSEN_API_KEY.
+2026-09-22 06:16:50,125 [INFO] --- [Ejecutando Señal 4: Screener Divergence 24H] ---
+2026-09-22 06:16:51,233 [ERROR] ❌ Error de Autenticación Nansen (403): Revisa tu NANSEN_API_KEY.
+2026-09-22 06:16:51,233 [INFO] 🔍 Candidato STONK desestimado por Score insuficiente (40/100)
+2026-09-22 06:16:51,541 [ERROR] ❌ Error de Autenticación Nansen (403): Revisa tu NANSEN_API_KEY.
+2026-09-22 06:16:51,541 [INFO] 🔍 Candidato BP desestimado por Score insuficiente (40/100)
+2026-09-22 06:16:51,921 [ERROR] ❌ Error de Autenticación Nansen (403): Revisa tu NANSEN_API_KEY.
+2026-09-22 06:16:51,921 [INFO] 🔍 Candidato CATE desestimado por Score insuficiente (40/100)
+2026-09-22 06:16:52,221 [ERROR] ❌ Error de Autenticación Nansen (403): Revisa tu NANSEN_API_KEY.
+2026-09-22 06:16:52,221 [INFO] 🔍 Candidato 4STOCK desestimado por Score insuficiente (40/100)
+2026-09-22 06:16:52,505 [ERROR] ❌ Error de Autenticación Nansen (403): Revisa tu NANSEN_API_KEY.
+2026-09-22 06:16:52,505 [INFO] 🔍 Candidato CRACKER desestimado por Score insuficiente (40/100)
+2026-09-22 06:16:52,817 [ERROR] ❌ Error de Autenticación Nansen (403): Revisa tu NANSEN_API_KEY.
+2026-09-22 06:16:52,817 [INFO] 🔍 Candidato 🌱 X7 desestimado por Score insuficiente (50/100)
+2026-09-22 06:16:53,231 [ERROR] ❌ Error de Autenticación Nansen (403): Revisa tu NANSEN_API_KEY.
+2026-09-22 06:16:53,232 [INFO] 🔍 Candidato AKE desestimado por Score insuficiente (40/100)
+2026-09-22 06:16:53,232 [INFO] --- [Ejecutando Señal 5: Acumulación Institucional VC 7D] ---
+2026-09-22 06:16:53,549 [ERROR] ❌ Error de Autenticación Nansen (403): Revisa tu NANSEN_API_KEY.
+2026-09-22 06:16:53,549 [INFO] --- [Ejecutando Señal 6: Convención Macro 30D] ---
+2026-09-22 06:16:53,901 [ERROR] ❌ Error de Autenticación Nansen (403): Revisa tu NANSEN_API_KEY.
+2026-09-22 06:16:53,901 [INFO] --- [Ejecutando Señal 3: Smart Money Dump 24H] ---
+2026-09-22 06:16:54,200 [ERROR] ❌ Error de Autenticación Nansen (403): Revisa tu NANSEN_API_KEY.
+2026-09-22 06:16:54,200 [INFO] ✅ Escaneo completado.
+2026-09-22 06:16:54,200 [INFO] ⏳ Bot escuchando activamente. Próximo escaneo en 30 minutos...
+2026-09-22 06:18:11,113 [INFO] 🛑 Bot detenido manualmente por el usuario. Apagado seguro.
+2026-09-22 06:20:26,259 [INFO] ✅ Alerta enviada con éxito a Telegram.
+2026-09-22 06:20:26,261 [INFO] 🚀 Iniciando escaneo completo de señales...
+2026-09-22 06:20:26,261 [INFO] --- [Ejecutando Señal 1: Smart Money Inflow 1H] ---
+2026-09-22 06:20:26,646 [ERROR] ❌ Error de Autenticación Nansen (403): Revisa tu NANSEN_API_KEY.
+2026-09-22 06:20:26,646 [INFO] --- [Ejecutando Señal 2: Smart Money Inflow 24H] ---
+2026-09-22 06:20:26,939 [ERROR] ❌ Error de Autenticación Nansen (403): Revisa tu NANSEN_API_KEY.
+2026-09-22 06:20:26,939 [INFO] --- [Ejecutando Señal 4: Screener Divergence 24H] ---
+2026-09-22 06:20:27,881 [ERROR] ❌ Error de Autenticación Nansen (403): Revisa tu NANSEN_API_KEY.
+2026-09-22 06:20:27,881 [INFO] 🔍 Candidato STONK desestimado por Score insuficiente (40/100)
+2026-09-22 06:20:28,258 [ERROR] ❌ Error de Autenticación Nansen (403): Revisa tu NANSEN_API_KEY.
+2026-09-22 06:20:28,259 [INFO] 🔍 Candidato BP desestimado por Score insuficiente (40/100)
+2026-09-22 06:20:28,578 [ERROR] ❌ Error de Autenticación Nansen (403): Revisa tu NANSEN_API_KEY.
+2026-09-22 06:20:28,578 [INFO] 🔍 Candidato 4STOCK desestimado por Score insuficiente (40/100)
+2026-09-22 06:20:28,879 [ERROR] ❌ Error de Autenticación Nansen (403): Revisa tu NANSEN_API_KEY.
+2026-09-22 06:20:28,879 [INFO] 🔍 Candidato CATE desestimado por Score insuficiente (40/100)
+2026-09-22 06:20:29,183 [ERROR] ❌ Error de Autenticación Nansen (403): Revisa tu NANSEN_API_KEY.
+2026-09-22 06:20:29,183 [INFO] 🔍 Candidato CRACKER desestimado por Score insuficiente (40/100)
+2026-09-22 06:20:29,488 [ERROR] ❌ Error de Autenticación Nansen (403): Revisa tu NANSEN_API_KEY.
+2026-09-22 06:20:29,488 [INFO] 🔍 Candidato 🌱 X7 desestimado por Score insuficiente (50/100)
+2026-09-22 06:20:29,793 [ERROR] ❌ Error de Autenticación Nansen (403): Revisa tu NANSEN_API_KEY.
+2026-09-22 06:20:29,793 [INFO] 🔍 Candidato AKE desestimado por Score insuficiente (40/100)
+2026-09-22 06:20:29,793 [INFO] --- [Ejecutando Señal 5: Acumulación Institucional VC 7D] ---
+2026-09-22 06:20:30,086 [ERROR] ❌ Error de Autenticación Nansen (403): Revisa tu NANSEN_API_KEY.
+2026-09-22 06:20:30,086 [INFO] --- [Ejecutando Señal 6: Convención Macro 30D] ---
+2026-09-22 06:20:30,393 [ERROR] ❌ Error de Autenticación Nansen (403): Revisa tu NANSEN_API_KEY.
+2026-09-22 06:20:30,393 [INFO] --- [Ejecutando Señal 3: Smart Money Dump 24H] ---
+2026-09-22 06:20:30,698 [ERROR] ❌ Error de Autenticación Nansen (403): Revisa tu NANSEN_API_KEY.
+2026-09-22 06:20:30,698 [INFO] ✅ Escaneo completado.
+2026-09-22 06:20:30,698 [INFO] ⏳ Bot escuchando activamente. Próximo escaneo en 30 minutos...
+2026-09-22 06:20:36,153 [INFO] 🛑 Bot detenido manualmente por el usuario. Apagado seguro.
+2026-09-22 08:52:07,046 [INFO] ✅ Alerta enviada con éxito a Telegram.
+2026-09-22 08:52:07,048 [INFO] 🚀 Iniciando escaneo completo de señales...
+2026-09-22 08:52:07,049 [INFO] --- [Ejecutando Señal 1: Smart Money Inflow 1H] ---
+2026-09-22 08:52:07,705 [INFO] --- [Ejecutando Señal 2: Smart Money Inflow 24H] ---
+2026-09-22 08:52:08,234 [INFO] --- [Ejecutando Señal 4: Screener Divergence 24H] ---
+2026-09-22 08:52:09,525 [INFO] 🔍 Candidato STONK desestimado por Score insuficiente (40/100)
+2026-09-22 08:52:10,023 [INFO] 🔍 Candidato BP desestimado por Score insuficiente (40/100)
+2026-09-22 08:52:10,708 [INFO] 🔍 Candidato ZCAT desestimado por Score insuficiente (40/100)
+2026-09-22 08:52:11,125 [INFO] 🔍 Candidato 4STOCK desestimado por Score insuficiente (40/100)
+2026-09-22 08:52:11,467 [INFO] 🔍 Candidato CATE desestimado por Score insuficiente (40/100)
+2026-09-22 08:52:12,068 [INFO] 🔍 Candidato 🌱 X7 desestimado por Score insuficiente (50/100)
+2026-09-22 08:52:12,535 [INFO] 🔍 Candidato ALLINU desestimado por Score insuficiente (40/100)
+2026-09-22 08:52:13,205 [INFO] 🔍 Candidato FEELSGOOD desestimado por Score insuficiente (40/100)
+2026-09-22 08:52:13,206 [INFO] --- [Ejecutando Señal 5: Acumulación Institucional VC 7D] ---
+2026-09-22 08:52:13,712 [INFO] --- [Ejecutando Señal 6: Convención Macro 30D] ---
+2026-09-22 08:52:14,248 [INFO] --- [Ejecutando Señal 3: Smart Money Dump 24H] ---
+2026-09-22 08:52:15,481 [INFO] ✅ Alerta enviada con éxito a Telegram.
+2026-09-22 08:52:16,200 [INFO] ✅ Alerta enviada con éxito a Telegram.
+2026-09-22 08:52:16,947 [INFO] ✅ Alerta enviada con éxito a Telegram.
+2026-09-22 08:52:17,844 [INFO] ✅ Alerta enviada con éxito a Telegram.
+2026-09-22 08:52:18,554 [INFO] ✅ Alerta enviada con éxito a Telegram.
+2026-09-22 08:52:18,560 [INFO] ✅ Escaneo completado.
+2026-09-22 08:52:18,560 [INFO] ⏳ Bot escuchando activamente. Próximo escaneo en 30 minutos...
+2026-09-22 09:22:25,646 [INFO] 🚀 Iniciando escaneo completo de señales...
+2026-09-22 09:22:25,647 [INFO] --- [Ejecutando Señal 1: Smart Money Inflow 1H] ---
+2026-09-22 09:22:26,400 [INFO] --- [Ejecutando Señal 2: Smart Money Inflow 24H] ---
+2026-09-22 09:22:26,982 [INFO] --- [Ejecutando Señal 4: Screener Divergence 24H] ---
+2026-09-22 09:22:28,592 [INFO] 🔍 Candidato BP desestimado por Score insuficiente (40/100)
+2026-09-22 09:22:29,051 [INFO] 🔍 Candidato STONK desestimado por Score insuficiente (40/100)
+2026-09-22 09:22:29,573 [INFO] 🔍 Candidato ZCAT desestimado por Score insuficiente (40/100)
+2026-09-22 09:22:30,180 [INFO] 🔍 Candidato 4STOCK desestimado por Score insuficiente (40/100)
+2026-09-22 09:22:30,546 [INFO] 🔍 Candidato CATE desestimado por Score insuficiente (40/100)
+2026-09-22 09:22:31,042 [INFO] 🔍 Candidato 🌱 X7 desestimado por Score insuficiente (50/100)
+2026-09-22 09:22:31,570 [INFO] 🔍 Candidato FEELSGOOD desestimado por Score insuficiente (40/100)
+2026-09-22 09:22:32,090 [INFO] 🔍 Candidato ALLINU desestimado por Score insuficiente (40/100)
+2026-09-22 09:22:32,090 [INFO] --- [Ejecutando Señal 5: Acumulación Institucional VC 7D] ---
+2026-09-22 09:22:32,588 [INFO] --- [Ejecutando Señal 6: Convención Macro 30D] ---
+2026-09-22 09:22:33,099 [INFO] --- [Ejecutando Señal 3: Smart Money Dump 24H] ---
+2026-09-22 09:22:34,414 [INFO] ✅ Alerta enviada con éxito a Telegram.
+2026-09-22 09:22:34,421 [INFO] ✅ Escaneo completado.
+2026-09-22 09:22:48,212 [INFO] 🛑 Bot detenido manualmente por el usuario. Apagado seguro.
+2026-09-22 12:36:59,309 [INFO] ✅ Alerta enviada con éxito a Telegram.
+2026-09-22 12:36:59,310 [INFO] 🚀 Iniciando escaneo completo de señales...
+2026-09-22 12:36:59,310 [INFO] --- [Ejecutando Señal 1: Smart Money Inflow 1H] ---
+2026-09-22 12:37:00,219 [INFO] --- [Ejecutando Señal 2: Smart Money Inflow 24H] ---
+2026-09-22 12:37:00,862 [INFO] --- [Ejecutando Señal 4: Screener Divergence 24H] ---
+2026-09-22 12:37:02,177 [INFO] 🔍 Candidato STONK desestimado por Score insuficiente (40/100)
+2026-09-22 12:37:02,838 [INFO] 🔍 Candidato BP desestimado por Score insuficiente (40/100)
+2026-09-22 12:37:03,339 [INFO] 🔍 Candidato PENGU desestimado por Score insuficiente (40/100)
+2026-09-22 12:37:03,885 [INFO] 🔍 Candidato ZCAT desestimado por Score insuficiente (40/100)
+2026-09-22 12:37:04,361 [INFO] 🔍 Candidato 🌱 SI desestimado por Score insuficiente (50/100)
+2026-09-22 12:37:04,960 [INFO] 🔍 Candidato 4STOCK desestimado por Score insuficiente (40/100)
+2026-09-22 12:37:05,465 [INFO] 🔍 Candidato BNKR desestimado por Score insuficiente (40/100)
+2026-09-22 12:37:05,936 [INFO] 🔍 Candidato CATE desestimado por Score insuficiente (40/100)
+2026-09-22 12:37:06,426 [INFO] 🔍 Candidato PAID desestimado por Score insuficiente (50/100)
+2026-09-22 12:37:06,427 [INFO] --- [Ejecutando Señal 5: Acumulación Institucional VC 7D] ---
+2026-09-22 12:37:06,953 [INFO] --- [Ejecutando Señal 6: Convención Macro 30D] ---
+2026-09-22 12:37:07,547 [INFO] --- [Ejecutando Señal 3: Smart Money Dump 24H] ---
+2026-09-22 12:37:08,059 [INFO] ✅ Escaneo completado.
+2026-09-22 12:37:08,059 [INFO] ⏳ Bot escuchando activamente. Próximo escaneo en 30 minutos...
+2026-09-22 13:07:08,060 [INFO] 🚀 Iniciando escaneo completo de señales...
+2026-09-22 13:07:08,060 [INFO] --- [Ejecutando Señal 1: Smart Money Inflow 1H] ---
+2026-09-22 13:07:08,862 [INFO] --- [Ejecutando Señal 2: Smart Money Inflow 24H] ---
+2026-09-22 13:07:09,507 [INFO] --- [Ejecutando Señal 4: Screener Divergence 24H] ---
+2026-09-22 13:07:11,043 [INFO] 🔍 Candidato STONK desestimado por Score insuficiente (40/100)
+2026-09-22 13:07:11,555 [INFO] 🔍 Candidato PENGU desestimado por Score insuficiente (40/100)
+2026-09-22 13:07:12,136 [INFO] 🔍 Candidato 🌱 SI desestimado por Score insuficiente (50/100)
+2026-09-22 13:07:12,619 [INFO] 🔍 Candidato ZCAT desestimado por Score insuficiente (40/100)
+2026-09-22 13:07:13,034 [INFO] 🔍 Candidato 4STOCK desestimado por Score insuficiente (40/100)
+2026-09-22 13:07:13,499 [INFO] 🔍 Candidato BNKR desestimado por Score insuficiente (40/100)
+2026-09-22 13:07:13,984 [INFO] 🔍 Candidato PAID desestimado por Score insuficiente (50/100)
+2026-09-22 13:07:14,569 [INFO] 🔍 Candidato ALLINU desestimado por Score insuficiente (40/100)
+2026-09-22 13:07:15,110 [INFO] 🔍 Candidato FEELSGOOD desestimado por Score insuficiente (40/100)
+2026-09-22 13:07:15,110 [INFO] --- [Ejecutando Señal 5: Acumulación Institucional VC 7D] ---
+2026-09-22 13:07:16,390 [INFO] --- [Ejecutando Señal 6: Convención Macro 30D] ---
+2026-09-22 13:07:16,946 [INFO] --- [Ejecutando Señal 3: Smart Money Dump 24H] ---
+2026-09-22 13:07:17,512 [INFO] ✅ Escaneo completado.
+2026-09-22 13:37:17,513 [INFO] 🚀 Iniciando escaneo completo de señales...
+2026-09-22 13:37:17,513 [INFO] --- [Ejecutando Señal 1: Smart Money Inflow 1H] ---
+2026-09-22 13:37:18,272 [INFO] --- [Ejecutando Señal 2: Smart Money Inflow 24H] ---
+2026-09-22 13:37:18,853 [INFO] --- [Ejecutando Señal 4: Screener Divergence 24H] ---
+2026-09-22 13:37:20,192 [INFO] 🔍 Candidato STONK desestimado por Score insuficiente (40/100)
+2026-09-22 13:37:20,700 [INFO] 🔍 Candidato PENGU desestimado por Score insuficiente (40/100)
+2026-09-22 13:37:21,202 [INFO] 🔍 Candidato 🌱 SI desestimado por Score insuficiente (50/100)
+2026-09-22 13:37:21,703 [INFO] 🔍 Candidato ZCAT desestimado por Score insuficiente (40/100)
+2026-09-22 13:37:22,145 [INFO] 🔍 Candidato 4STOCK desestimado por Score insuficiente (40/100)
+2026-09-22 13:37:22,635 [INFO] 🔍 Candidato BNKR desestimado por Score insuficiente (40/100)
+2026-09-22 13:37:23,111 [INFO] 🔍 Candidato PAID desestimado por Score insuficiente (50/100)
+2026-09-22 13:37:23,672 [INFO] 🔍 Candidato ALLINU desestimado por Score insuficiente (40/100)
+2026-09-22 13:37:24,199 [INFO] 🔍 Candidato FEELSGOOD desestimado por Score insuficiente (50/100)
+2026-09-22 13:37:24,200 [INFO] --- [Ejecutando Señal 5: Acumulación Institucional VC 7D] ---
+2026-09-22 13:37:24,722 [INFO] --- [Ejecutando Señal 6: Convención Macro 30D] ---
+2026-09-22 13:37:25,363 [INFO] --- [Ejecutando Señal 3: Smart Money Dump 24H] ---
+2026-09-22 13:37:26,418 [INFO] ✅ Escaneo completado.
+2026-09-22 14:07:26,419 [INFO] 🚀 Iniciando escaneo completo de señales...
+2026-09-22 14:07:26,419 [INFO] --- [Ejecutando Señal 1: Smart Money Inflow 1H] ---
+2026-09-22 14:07:27,568 [INFO] --- [Ejecutando Señal 2: Smart Money Inflow 24H] ---
+2026-09-22 14:07:28,186 [INFO] --- [Ejecutando Señal 4: Screener Divergence 24H] ---
+2026-09-22 14:07:43,204 [ERROR] ❌ Excepción en consulta HTTP a Nansen: HTTPSConnectionPool(host='api.nansen.ai', port=443): Read timed out. (read timeout=15)
+2026-09-22 14:07:43,204 [INFO] --- [Ejecutando Señal 5: Acumulación Institucional VC 7D] ---
+2026-09-22 14:07:44,086 [INFO] --- [Ejecutando Señal 6: Convención Macro 30D] ---
+2026-09-22 14:07:48,827 [INFO] --- [Ejecutando Señal 3: Smart Money Dump 24H] ---
+2026-09-22 14:07:50,224 [INFO] ✅ Alerta enviada con éxito a Telegram.
+2026-09-22 14:07:50,229 [INFO] ✅ Escaneo completado.
+2026-09-22 14:37:50,229 [INFO] 🚀 Iniciando escaneo completo de señales...
+2026-09-22 14:37:50,229 [INFO] --- [Ejecutando Señal 1: Smart Money Inflow 1H] ---
+2026-09-22 14:37:50,923 [INFO] --- [Ejecutando Señal 2: Smart Money Inflow 24H] ---
+2026-09-22 14:37:51,627 [INFO] --- [Ejecutando Señal 4: Screener Divergence 24H] ---
+2026-09-22 14:37:52,969 [INFO] 🔍 Candidato STONK desestimado por Score insuficiente (40/100)
+2026-09-22 14:37:53,568 [INFO] 🔍 Candidato PENGU desestimado por Score insuficiente (40/100)
+2026-09-22 14:37:54,222 [INFO] 🔍 Candidato ZCAT desestimado por Score insuficiente (40/100)
+2026-09-22 14:37:54,958 [INFO] 🔍 Candidato 🌱 SI desestimado por Score insuficiente (50/100)
+2026-09-22 14:37:55,693 [INFO] 🔍 Candidato ALLINU desestimado por Score insuficiente (40/100)
+2026-09-22 14:37:56,178 [INFO] 🔍 Candidato 4STOCK desestimado por Score insuficiente (40/100)
+2026-09-22 14:37:56,645 [INFO] 🔍 Candidato PAID desestimado por Score insuficiente (50/100)
+2026-09-22 14:37:57,174 [INFO] 🔍 Candidato BNKR desestimado por Score insuficiente (40/100)
+2026-09-22 14:37:57,174 [INFO] --- [Ejecutando Señal 5: Acumulación Institucional VC 7D] ---
+2026-09-22 14:37:57,647 [INFO] --- [Ejecutando Señal 6: Convención Macro 30D] ---
+2026-09-22 14:37:58,303 [INFO] --- [Ejecutando Señal 3: Smart Money Dump 24H] ---
+2026-09-22 14:37:58,877 [INFO] ✅ Escaneo completado.
+2026-09-22 15:34:49,863 [INFO] 🚀 Iniciando escaneo completo de señales...
+2026-09-22 15:34:49,864 [INFO] --- [Ejecutando Señal 1: Smart Money Inflow 1H] ---
+2026-09-22 15:34:50,662 [INFO] --- [Ejecutando Señal 2: Smart Money Inflow 24H] ---
+2026-09-22 15:34:51,843 [INFO] --- [Ejecutando Señal 4: Screener Divergence 24H] ---
+2026-09-22 15:34:53,252 [INFO] 🔍 Candidato STONK desestimado por Score insuficiente (40/100)
+2026-09-22 15:34:53,823 [INFO] 🔍 Candidato PENGU desestimado por Score insuficiente (40/100)
+2026-09-22 15:34:54,307 [INFO] 🔍 Candidato ZCAT desestimado por Score insuficiente (40/100)
+2026-09-22 15:34:54,888 [INFO] 🔍 Candidato 🌱 SI desestimado por Score insuficiente (50/100)
+2026-09-22 15:34:55,423 [INFO] 🔍 Candidato ALLINU desestimado por Score insuficiente (40/100)
+2026-09-22 15:34:56,096 [INFO] 🔍 Candidato 4STOCK desestimado por Score insuficiente (40/100)
+2026-09-22 15:34:56,606 [INFO] 🔍 Candidato BNKR desestimado por Score insuficiente (40/100)
+2026-09-22 15:34:57,144 [INFO] 🔍 Candidato PAID desestimado por Score insuficiente (50/100)
+2026-09-22 15:34:57,698 [INFO] 🔍 Candidato FEELSGOOD desestimado por Score insuficiente (40/100)
+2026-09-22 15:34:57,698 [INFO] --- [Ejecutando Señal 5: Acumulación Institucional VC 7D] ---
+2026-09-22 15:34:58,249 [INFO] --- [Ejecutando Señal 6: Convención Macro 30D] ---
+2026-09-22 15:34:58,739 [INFO] --- [Ejecutando Señal 3: Smart Money Dump 24H] ---
+2026-09-22 15:34:59,255 [INFO] ✅ Escaneo completado.
+2026-09-22 16:10:53,227 [INFO] 🚀 Iniciando escaneo completo de señales...
+2026-09-22 16:10:53,227 [INFO] --- [Ejecutando Señal 1: Smart Money Inflow 1H] ---
+2026-09-22 16:10:54,478 [INFO] --- [Ejecutando Señal 2: Smart Money Inflow 24H] ---
+2026-09-22 16:10:55,068 [INFO] --- [Ejecutando Señal 4: Screener Divergence 24H] ---
+2026-09-22 16:10:56,416 [INFO] 🔍 Candidato STONK desestimado por Score insuficiente (40/100)
+2026-09-22 16:10:56,921 [INFO] 🔍 Candidato PENGU desestimado por Score insuficiente (40/100)
+2026-09-22 16:10:57,327 [INFO] 🔍 Candidato ZCAT desestimado por Score insuficiente (40/100)
+2026-09-22 16:10:57,936 [INFO] 🔍 Candidato 🌱 SI desestimado por Score insuficiente (50/100)
+2026-09-22 16:10:58,548 [INFO] 🔍 Candidato ALLINU desestimado por Score insuficiente (40/100)
+2026-09-22 16:10:59,045 [INFO] 🔍 Candidato 4STOCK desestimado por Score insuficiente (40/100)
+2026-09-22 16:10:59,499 [INFO] 🔍 Candidato BNKR desestimado por Score insuficiente (40/100)
+2026-09-22 16:10:59,991 [INFO] 🔍 Candidato PAID desestimado por Score insuficiente (50/100)
+2026-09-22 16:11:00,556 [INFO] 🔍 Candidato FEELSGOOD desestimado por Score insuficiente (50/100)
+2026-09-22 16:11:00,556 [INFO] --- [Ejecutando Señal 5: Acumulación Institucional VC 7D] ---
+2026-09-22 16:11:01,012 [INFO] --- [Ejecutando Señal 6: Convención Macro 30D] ---
+2026-09-22 16:11:01,594 [INFO] --- [Ejecutando Señal 3: Smart Money Dump 24H] ---
+2026-09-22 16:11:02,165 [INFO] ✅ Escaneo completado.
+2026-09-22 16:11:04,531 [INFO] 🛑 Bot detenido manualmente por el usuario. Apagado seguro.
+2026-09-24 18:46:45,546 [INFO] ✅ Alerta enviada con éxito a Telegram.
+2026-09-24 18:46:45,548 [INFO] 🚀 Iniciando escaneo completo de señales...
+2026-09-24 18:46:45,548 [INFO] --- [Ejecutando Señal 1: Smart Money Inflow 1H] ---
+2026-09-24 18:46:47,065 [INFO] --- [Ejecutando Señal 2: Smart Money Inflow 24H] ---
+2026-09-24 18:46:47,672 [INFO] --- [Ejecutando Señal 4: Screener Divergence 24H] ---
+2026-09-24 18:46:49,080 [INFO] 🔍 Candidato STONK desestimado por Score insuficiente (40/100)
+2026-09-24 18:46:49,594 [INFO] 🔍 Candidato BP desestimado por Score insuficiente (40/100)
+2026-09-24 18:46:50,050 [INFO] 🔍 Candidato PPOLY desestimado por Score insuficiente (50/100)
+2026-09-24 18:46:50,501 [INFO] 🔍 Candidato SI desestimado por Score insuficiente (40/100)
+2026-09-24 18:46:50,946 [INFO] 🔍 Candidato 🌱 SHARTCOIN desestimado por Score insuficiente (50/100)
+2026-09-24 18:46:51,409 [INFO] 🔍 Candidato ZEC desestimado por Score insuficiente (40/100)
+2026-09-24 18:46:51,983 [INFO] 🔍 Candidato 🌱 FAMILIARS desestimado por Score insuficiente (50/100)
+2026-09-24 18:46:52,571 [INFO] 🔍 Candidato WOW desestimado por Score insuficiente (50/100)
+2026-09-24 18:46:53,014 [INFO] 🔍 Candidato GP desestimado por Score insuficiente (50/100)
+2026-09-24 18:46:53,014 [INFO] --- [Ejecutando Señal 5: Acumulación Institucional VC 7D] ---
+2026-09-24 18:46:53,317 [INFO] --- [Ejecutando Señal 6: Convención Macro 30D] ---
+2026-09-24 18:46:53,935 [INFO] --- [Ejecutando Señal 3: Smart Money Dump 24H] ---
+2026-09-24 18:46:55,141 [INFO] ✅ Alerta enviada con éxito a Telegram.
+2026-09-24 18:46:55,838 [INFO] ✅ Alerta enviada con éxito a Telegram.
+2026-09-24 18:46:56,574 [INFO] ✅ Alerta enviada con éxito a Telegram.
+2026-09-24 18:46:56,579 [INFO] ✅ Escaneo completado.
+2026-09-24 18:46:56,579 [INFO] ⏳ Bot escuchando activamente. Próximo escaneo en 30 minutos...
+2026-09-24 18:47:08,015 [INFO] 🛑 Bot detenido manualmente por el usuario. Apagado seguro.
